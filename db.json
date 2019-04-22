@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 2
+    },
+    {
+      "title": "Other stream",
+      "description": "Here Some Stream",
+      "id": 3
+    },
+    {
+      "title": "Latest Video",
+      "description": "he is one of the lovers of muhammad",
+      "id": 4
+    },
+    {
+      "title": "adil nawaz",
+      "description": "he is having a very good heart",
+      "id": 5
+    }
+  ]
+}
